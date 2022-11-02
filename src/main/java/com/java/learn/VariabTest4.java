@@ -1,4 +1,4 @@
-package learn;
+package com.java.learn;
 
 /**
  * @author lin

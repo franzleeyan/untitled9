@@ -1,4 +1,4 @@
-package learn;
+package com.java.learn;
 
 public class VariableDemo1 {
     //主入口

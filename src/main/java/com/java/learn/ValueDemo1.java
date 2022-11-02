@@ -1,4 +1,4 @@
-package learn;
+package com.java.learn;
 
 public class ValueDemo1 {
     public static void main(String[] args) {
