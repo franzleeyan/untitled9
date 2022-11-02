@@ -1,3 +1,5 @@
+package learn;
+
 /** 定义变量VariableTest
  * @author franzlee*/
 public class VariableTest {

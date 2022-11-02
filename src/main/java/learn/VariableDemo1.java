@@ -1,3 +1,5 @@
+package learn;
+
 public class VariableDemo1 {
     //主入口
     public static void main(String[] args) {
