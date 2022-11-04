@@ -24,8 +24,8 @@ public class Test1 {
         int ge = number % 10;
         int shi = number / 10 % 10;
         int bai = number / 10 / 10 % 10;
-        System.out.println(ge);
-        System.out.println(shi);
-        System.out.println(bai);
+        System.out.println("个位数是：" + ge);
+        System.out.println("十位数是：" + shi);
+        System.out.println("百位数是：" + bai);
     }
 }
