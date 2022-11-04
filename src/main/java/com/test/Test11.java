@@ -3,10 +3,12 @@ package com.test;
 import java.util.Scanner;
 
 /**
- * @author lin
- * @date 2022/11/03/19:04
+ * @author FranzLee
+ * @ClassName Test11
+ * @date 2022/11/4 17:46
+ * @Version 1.0
  */
-public class Test1 {
+public class Test11 {
     public static void main(String[] args) {
         //1.键盘录入
         Scanner sc = new Scanner(System.in);
@@ -21,8 +23,9 @@ public class Test1 {
         int ge = number % 10;
         int shi = number / 10 % 10;
         int bai = number / 10 / 10 % 10;
-        System.out.println(ge);
-        System.out.println(shi);
-        System.out.println(bai);
+        System.out.println("个位数是：" + ge);
+        System.out.println("十位数是：" + shi);
+        System.out.println("百位数是：" + bai);
     }
+
 }
