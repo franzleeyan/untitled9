@@ -7,10 +7,7 @@ import java.util.Scanner;
  * @date 2022/11/03/19:04
  */
 public class Test1 {
-    //主入口
     public static void main(String[] args) {
-        //键盘录入一个三位数，获取其中的个位数，十位，百位
-
         //1.键盘录入
         Scanner sc = new Scanner(System.in);
         System.out.print("请输入一个三位数");
