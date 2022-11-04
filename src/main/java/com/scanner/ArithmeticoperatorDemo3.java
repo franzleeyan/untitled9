@@ -1,4 +1,4 @@
-package com.Scanner.test;
+package com.scanner;
 
 /**
  * @author lin

@@ -1,4 +1,4 @@
-package com.Scanner.test;
+package com.scanner;
 
 //导入Scanner包
 import java.util.Scanner;
