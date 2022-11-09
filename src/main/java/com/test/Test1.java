@@ -20,7 +20,7 @@ public class Test1 {
         //...
         int ge = number % 10;
         int shi = number / 10 % 10;
-        int bai = number / 10 / 10 % 10;
+        int bai = number / 100 % 10;
         System.out.println(ge);
         System.out.println(shi);
         System.out.println(bai);
