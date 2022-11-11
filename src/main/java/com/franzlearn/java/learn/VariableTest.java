@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.franzlearn.java.learn;
 
 /** 定义变量VariableTest
  * @author franzlee*/

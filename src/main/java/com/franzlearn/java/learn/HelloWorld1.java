@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.franzlearn.java.learn;
 
 /**
  * @author FranzLee

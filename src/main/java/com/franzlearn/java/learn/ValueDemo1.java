@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.franzlearn.java.learn;
 
 public class ValueDemo1 {
     public static void main(String[] args) {

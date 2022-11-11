@@ -1,4 +1,4 @@
-package com.assigningoperator;
+package com.franzlearn.assigningoperator;
 
 /**
  * @author FranzLee

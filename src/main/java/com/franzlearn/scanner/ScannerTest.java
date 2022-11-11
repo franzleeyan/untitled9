@@ -1,4 +1,4 @@
-package com.scanner;
+package com.franzlearn.scanner;
 
 //导入Scanner包
 import java.util.Scanner;

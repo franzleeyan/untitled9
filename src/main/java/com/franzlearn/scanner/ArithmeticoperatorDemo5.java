@@ -1,4 +1,4 @@
-package com.scanner;
+package com.franzlearn.scanner;
 
 /**
  * @author FranzLee

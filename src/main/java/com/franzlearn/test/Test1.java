@@ -1,4 +1,4 @@
-package com.test;
+package com.franzlearn.test;
 
 import java.util.Scanner;
 

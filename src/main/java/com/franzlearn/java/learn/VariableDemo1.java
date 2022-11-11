@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.franzlearn.java.learn;
 
 public class VariableDemo1 {
     //主入口
