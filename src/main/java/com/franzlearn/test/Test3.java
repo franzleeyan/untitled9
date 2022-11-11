@@ -1,5 +1,7 @@
 package com.franzlearn.test;
 
+import java.util.Scanner;
+
 /**
  * @author FranzLee
  * @ClassName Test3
@@ -22,7 +24,16 @@ public class Test3 {
         //如果满足其中一个，那么就可以输出true
 
         //键盘输入两个整数
-        //
+        Scanner sc = new Scanner(System.in);
+        System.out.println("请输入第一个整数：");
+        int number1 = sc.nextInt();
+        System.out.println("请输入第二个整数：");
+        int number2 = sc.nextInt();
+
+        //可以短路逻辑运算符连接三个判断
+        boolean result = number1 == 6 || number2 == 6 || (number1 + number2) % 6 == 0;
+
+        System.out.println(result);
     }
 
 }
