@@ -17,6 +17,8 @@ public class ScannerDemo1 {
         //2.创建对象，标识现在准备要用Scanner这个类
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("请输入整数：");
+
         /*
         3.接收数据
         变量i记录了键盘录入的数据
