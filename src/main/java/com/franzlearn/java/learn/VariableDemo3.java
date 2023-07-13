@@ -17,6 +17,7 @@ public class VariableDemo3 {
         System.out.println(s);
         //int
         int i = 30;
+        //打印i，等于30
         System.out.println(i);
         //long
         //如果要定义long类型的变量
